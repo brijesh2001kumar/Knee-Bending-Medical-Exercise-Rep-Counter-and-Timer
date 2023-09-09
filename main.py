@@ -36,7 +36,7 @@ with header:
 with video:
 
     st.subheader('Sample Implementation of project')
-    video = open('trial_run.mp4','rb')
+    video = open('trial_run_edited.mp4','rb')
     st.video(video)
     st.markdown("""---""")
 
